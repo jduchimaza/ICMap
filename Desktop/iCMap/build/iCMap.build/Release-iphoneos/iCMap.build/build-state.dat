@@ -1,0 +1,525 @@
+TiCMap
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C6C31EB00000000000002FE
+t1282159083
+s766
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C6C320B00000000002801E0
+t1282159115
+s2621920
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/IntercomViewController.h
+c000000004DCBBBDD0000000000000373
+t1305197533
+s883
+i<UIKit/UIKit.h>
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/IntercomViewController.m
+c000000004DCBCADE0000000000001D32
+t1305201374
+s7474
+i"IntercomViewController.h"
+i"iCMapAppDelegate.h"
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/IntercomViewController.xib
+c000000004DCA536E0000000000005A81
+t1305105262
+s23169
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/IthacaWebViewController.h
+c000000004DCB562C0000000000000143
+t1305171500
+s323
+i<UIKit/UIKit.h>
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/IthacaWebViewController.m
+c000000004DCBC9460000000000000599
+t1305200966
+s1433
+i"IthacaWebViewController.h"
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/IthacaWebViewController.xib
+c000000004DCB5AE900000000000044C0
+t1305172713
+s17600
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/MapViewController.h
+c000000004DCB70D700000000000001EB
+t1305178327
+s491
+i<UIKit/UIKit.h>
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/MapViewController.m
+c000000004DCBADDC000000000000150E
+t1305193948
+s5390
+i"MapViewController.h"
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/MapViewController.xib
+c000000004DA8938E00000000000042EC
+t1302893454
+s17132
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/NewsDetailViewController.xib
+c000000004DCB3BA90000000000004791
+t1305164713
+s18321
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/TGAnnotation.h
+c000000004DCBB69A00000000000002C1
+t1305196186
+s705
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/TGAnnotation.m
+c000000004DC780D5000000000000019E
+t1304920277
+s414
+i"TGAnnotation.h"
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/TabBarController.h
+c000000004DCA45D100000000000000E6
+t1305101777
+s230
+i<UIKit/UIKit.h>
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/TabBarController.m
+c000000004DCB70C1000000000000019D
+t1305178305
+s413
+i"TabBarController.h"
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/TourGuideViewController.h
+c000000004DCBAE0000000000000001AA
+t1305193984
+s426
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i"TGAnnotation.h"
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/TourGuideViewController.m
+c000000004DCBB56C0000000000001A77
+t1305195884
+s6775
+i"TourGuideViewController.h"
+i"TGAnnotation.h"
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/TourGuideViewController.xib
+c000000004DC8DF2500000000000043F9
+t1305009957
+s17401
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/iCMapAppDelegate.h
+c000000004DCB63E20000000000000296
+t1305175010
+s662
+i<UIKit/UIKit.h>
+i"TabBarController.h"
+i"MapViewController.h"
+i"TourGuideViewController.h"
+i"IntercomViewController.h"
+i"IthacaWebViewController.h"
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/iCMapAppDelegate.m
+c000000004DCB82E1000000000000140B
+t1305182945
+s5131
+i"iCMapAppDelegate.h"
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Default.png
+c000000004DB4F62200000000001000EB
+t1303705122
+s1048811
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Ithaca_College_Campus_Map.png
+c000000004DCAD6C300000000001F196A
+t1305138883
+s2038122
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/MainWindow.xib
+c000000004DCA470F00000000000044F5
+t1305102095
+s17653
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app.dSYM
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/Default.png
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/Info.plist
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/IntercomViewController.nib
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/IthacaWebViewController.nib
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/Ithaca_College_Campus_Map.png
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/MainWindow.nib
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/MapViewController.nib
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/NewsDetailViewController.nib
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/PkgInfo
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/ResourceRules.plist
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/TourGuideViewController.nib
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/bullhorn.png
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/gear.png
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/iCMap
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/icon.png
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/laptop.png
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/map-marker.png
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/map.png
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv6/IntercomViewController.o
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv6/IthacaWebViewController.o
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv6/MapViewController.o
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv6/TGAnnotation.o
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv6/TabBarController.o
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv6/TourGuideViewController.o
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv6/iCMap
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv6/iCMap.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv6/iCMapAppDelegate.o
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv7/IntercomViewController.o
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv7/IthacaWebViewController.o
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv7/MapViewController.o
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv7/TGAnnotation.o
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv7/TabBarController.o
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv7/TourGuideViewController.o
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv7/iCMap
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv7/iCMap.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv7/iCMapAppDelegate.o
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/iCMap.build/Release-iphoneos/iCMap.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/bullhorn.png
+c000000004CB88AA40000000000000B83
+t1287162532
+s2947
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/gear.png
+c000000004CB88AA80000000000000CB7
+t1287162536
+s3255
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/iCMap_Prefix.pch
+c000000004DA8792500000000000000B3
+t1302886693
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/icon.png
+c000000004DA89D700000000000013DC0
+t1302895984
+s81344
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/laptop.png
+c000000004CBBD07600000000000000C3
+t1287377014
+s195
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/main.m
+c000000004DA879250000000000000169
+t1302886693
+s361
+i<UIKit/UIKit.h>
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/map-marker.png
+c000000004CB88A9A0000000000000C3B
+t1287162522
+s3131
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/map.png
+c000000004CB88A9E0000000000000C9D
+t1287162526
+s3229
+
+N/var/folders/M5/M5B9zwJVGImn6S1Wm9YWYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCMap_Prefix-dknpxasyjvmatbdmxygqofkjkjzf/iCMap_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/M5/M5B9zwJVGImn6S1Wm9YWYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCMap_Prefix-eimbyawuyvrswbcgktmkxpzhukyz/iCMap_Prefix.pch.gch
+t2
+s0
+
+NiCMap-Info.plist
+c000000004DA89D9F0000000000000395
+t1302896031
+s917
+
+CCompileC build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv6/IntercomViewController.o "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/IntercomViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv6/IthacaWebViewController.o "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/IthacaWebViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv6/MapViewController.o "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/MapViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv6/TGAnnotation.o "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/TGAnnotation.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv6/TabBarController.o "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/TabBarController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv6/TourGuideViewController.o "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/TourGuideViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv6/iCMapAppDelegate.o "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/iCMapAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv6/main.o "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv7/IntercomViewController.o "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/IntercomViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv7/IthacaWebViewController.o "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/IthacaWebViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv7/MapViewController.o "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/MapViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv7/TGAnnotation.o "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/TGAnnotation.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv7/TabBarController.o "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/TabBarController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv7/TourGuideViewController.o "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/TourGuideViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv7/iCMapAppDelegate.o "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/iCMapAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv7/main.o "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/IntercomViewController.xib"
+r0
+
+CCompileXIB "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/IthacaWebViewController.xib"
+r0
+
+CCompileXIB "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/MapViewController.xib"
+r0
+
+CCompileXIB "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/NewsDetailViewController.xib"
+r0
+
+CCompileXIB "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/TourGuideViewController.xib"
+r0
+
+CCompileXIB "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/MainWindow.xib"
+r0
+
+CCopyPNGFile "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/Default.png" Default.png
+r0
+
+CCopyPNGFile "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/Ithaca_College_Campus_Map.png" Ithaca_College_Campus_Map.png
+r0
+
+CCopyPNGFile "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/bullhorn.png" bullhorn.png
+r0
+
+CCopyPNGFile "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/gear.png" gear.png
+r0
+
+CCopyPNGFile "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/icon.png" icon.png
+r0
+
+CCopyPNGFile "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/laptop.png" laptop.png
+r0
+
+CCopyPNGFile "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/map-marker.png" map-marker.png
+r0
+
+CCopyPNGFile "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/map.png" map.png
+r0
+
+CCpResource build/Release-iphoneos/iCMap.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/iCMap" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app.dSYM" "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/iCMap"
+r0
+
+CLd "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv6/iCMap" normal armv6
+r0
+
+CLd "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/iCMap.build/Release-iphoneos/iCMap.build/Objects-normal/armv7/iCMap" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app/Info.plist" iCMap-Info.plist
+r0
+
+CProcessPCH /var/folders/M5/M5B9zwJVGImn6S1Wm9YWYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCMap_Prefix-dknpxasyjvmatbdmxygqofkjkjzf/iCMap_Prefix.pch.gch iCMap_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/M5/M5B9zwJVGImn6S1Wm9YWYk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCMap_Prefix-eimbyawuyvrswbcgktmkxpzhukyz/iCMap_Prefix.pch.gch iCMap_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app"
+r0
+
+CValidate "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Release-iphoneos/iCMap.app"
+r0
+

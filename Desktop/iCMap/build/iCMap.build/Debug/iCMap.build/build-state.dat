@@ -1,0 +1,362 @@
+TiCMap
+v7
+r1
+cCheck dependencies
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/IntercomViewController.xib
+c000000004DCA536E0000000000005A81
+t1305105262
+s23169
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/IthacaWebViewController.xib
+c000000004DCB5AE900000000000044C0
+t1305172713
+s17600
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/MapViewController.xib
+c000000004DA8938E00000000000042EC
+t1302893454
+s17132
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/NewsDetailViewController.xib
+c000000004DCB3BA90000000000004791
+t1305164713
+s18321
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/TourGuideViewController.xib
+c000000004DC8DF2500000000000043F9
+t1305009957
+s17401
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Default.png
+c000000004DB4F62200000000001000EB
+t1303705122
+s1048811
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Ithaca_College_Campus_Map.png
+c000000004DCAD6C300000000001F196A
+t1305138883
+s2038122
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/MainWindow.xib
+c000000004DCA470F00000000000044F5
+t1305102095
+s17653
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Debug/iCMap.app
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Debug/iCMap.app/Contents/Info.plist
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Debug/iCMap.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Debug/iCMap.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Debug/iCMap.app/Contents/Resources/IntercomViewController.nib
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Debug/iCMap.app/Contents/Resources/IthacaWebViewController.nib
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Debug/iCMap.app/Contents/Resources/Ithaca_College_Campus_Map.png
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Debug/iCMap.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Debug/iCMap.app/Contents/Resources/MapViewController.nib
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Debug/iCMap.app/Contents/Resources/NewsDetailViewController.nib
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Debug/iCMap.app/Contents/Resources/TourGuideViewController.nib
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Debug/iCMap.app/Contents/Resources/bullhorn.png
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Debug/iCMap.app/Contents/Resources/gear.png
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Debug/iCMap.app/Contents/Resources/icon.png
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Debug/iCMap.app/Contents/Resources/laptop.png
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Debug/iCMap.app/Contents/Resources/map-marker.png
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Debug/iCMap.app/Contents/Resources/map.png
+t2
+s0
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/bullhorn.png
+c000000004CB88AA40000000000000B83
+t1287162532
+s2947
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/gear.png
+c000000004CB88AA80000000000000CB7
+t1287162536
+s3255
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/icon.png
+c000000004DA89D700000000000013DC0
+t1302895984
+s81344
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/laptop.png
+c000000004CBBD07600000000000000C3
+t1287377014
+s195
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/map-marker.png
+c000000004CB88A9A0000000000000C3B
+t1287162522
+s3131
+
+N/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/map.png
+c000000004CB88A9E0000000000000C9D
+t1287162526
+s3229
+
+N/Volumes/My Passport/iCMap/Classes/IntercomViewController.xib
+c000000004DCA536E0000000000005A81
+t1305105262
+s23169
+
+N/Volumes/My Passport/iCMap/Classes/IthacaWebViewController.xib
+c000000004DCB5AE900000000000044C0
+t1305172713
+s17600
+
+N/Volumes/My Passport/iCMap/Classes/MapViewController.xib
+c000000004DA8938E00000000000042EC
+t1302893454
+s17132
+
+N/Volumes/My Passport/iCMap/Classes/NewsDetailViewController.xib
+c000000004DCB3BA90000000000004791
+t1305164713
+s18321
+
+N/Volumes/My Passport/iCMap/Classes/TourGuideViewController.xib
+c000000004DC8DF2500000000000043F9
+t1305009957
+s17401
+
+N/Volumes/My Passport/iCMap/Default.png
+c000000004DB4F62200000000001000EB
+t1303705122
+s1048811
+
+N/Volumes/My Passport/iCMap/Ithaca_College_Campus_Map.png
+c000000004DCAD6C300000000001F196A
+t1305138883
+s2038122
+
+N/Volumes/My Passport/iCMap/MainWindow.xib
+c000000004DCA470F00000000000044F5
+t1305102095
+s17653
+
+N/Volumes/My Passport/iCMap/build/Debug/iCMap.app
+t2
+s0
+
+N/Volumes/My Passport/iCMap/build/Debug/iCMap.app/Contents/Info.plist
+t2
+s0
+
+N/Volumes/My Passport/iCMap/build/Debug/iCMap.app/Contents/PkgInfo
+t2
+s0
+
+N/Volumes/My Passport/iCMap/build/Debug/iCMap.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Volumes/My Passport/iCMap/build/Debug/iCMap.app/Contents/Resources/IntercomViewController.nib
+t2
+s0
+
+N/Volumes/My Passport/iCMap/build/Debug/iCMap.app/Contents/Resources/IthacaWebViewController.nib
+t2
+s0
+
+N/Volumes/My Passport/iCMap/build/Debug/iCMap.app/Contents/Resources/Ithaca_College_Campus_Map.png
+t2
+s0
+
+N/Volumes/My Passport/iCMap/build/Debug/iCMap.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Volumes/My Passport/iCMap/build/Debug/iCMap.app/Contents/Resources/MapViewController.nib
+t2
+s0
+
+N/Volumes/My Passport/iCMap/build/Debug/iCMap.app/Contents/Resources/NewsDetailViewController.nib
+t2
+s0
+
+N/Volumes/My Passport/iCMap/build/Debug/iCMap.app/Contents/Resources/TourGuideViewController.nib
+t2
+s0
+
+N/Volumes/My Passport/iCMap/build/Debug/iCMap.app/Contents/Resources/bullhorn.png
+t2
+s0
+
+N/Volumes/My Passport/iCMap/build/Debug/iCMap.app/Contents/Resources/gear.png
+t2
+s0
+
+N/Volumes/My Passport/iCMap/build/Debug/iCMap.app/Contents/Resources/icon.png
+t2
+s0
+
+N/Volumes/My Passport/iCMap/build/Debug/iCMap.app/Contents/Resources/laptop.png
+t2
+s0
+
+N/Volumes/My Passport/iCMap/build/Debug/iCMap.app/Contents/Resources/map-marker.png
+t2
+s0
+
+N/Volumes/My Passport/iCMap/build/Debug/iCMap.app/Contents/Resources/map.png
+t2
+s0
+
+N/Volumes/My Passport/iCMap/bullhorn.png
+c000000004CB88AA40000000000000B83
+t1287162532
+s2947
+
+N/Volumes/My Passport/iCMap/gear.png
+c000000004CB88AA80000000000000CB7
+t1287162536
+s3255
+
+N/Volumes/My Passport/iCMap/icon.png
+c000000004DA89D700000000000013DC0
+t1302895984
+s81344
+
+N/Volumes/My Passport/iCMap/laptop.png
+c000000004CBBD07600000000000000C3
+t1287377014
+s195
+
+N/Volumes/My Passport/iCMap/map-marker.png
+c000000004CB88A9A0000000000000C3B
+t1287162522
+s3131
+
+N/Volumes/My Passport/iCMap/map.png
+c000000004CB88A9E0000000000000C9D
+t1287162526
+s3229
+
+NiCMap-Info.plist
+c000000004DCC19350000000000000376
+t1305221429
+s886
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies331575060#331575060#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.3'1(4@58"error: There is no SDK with the name or path 'iphoneos4.3'331575060#18446744073709551615#0#0(1@0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileXIB "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/IntercomViewController.xib"
+r0
+
+CCompileXIB "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/IthacaWebViewController.xib"
+r0
+
+CCompileXIB "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/MapViewController.xib"
+r0
+
+CCompileXIB "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/NewsDetailViewController.xib"
+r0
+
+CCompileXIB "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/Classes/TourGuideViewController.xib"
+r0
+
+CCompileXIB "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/MainWindow.xib"
+r0
+
+CCompileXIB "/Volumes/My Passport/iCMap/Classes/IntercomViewController.xib"
+r0
+
+CCompileXIB "/Volumes/My Passport/iCMap/Classes/IthacaWebViewController.xib"
+r0
+
+CCompileXIB "/Volumes/My Passport/iCMap/Classes/MapViewController.xib"
+r0
+
+CCompileXIB "/Volumes/My Passport/iCMap/Classes/NewsDetailViewController.xib"
+r0
+
+CCompileXIB "/Volumes/My Passport/iCMap/Classes/TourGuideViewController.xib"
+r0
+
+CCompileXIB "/Volumes/My Passport/iCMap/MainWindow.xib"
+r0
+
+CCpResource build/Debug/iCMap.app/Contents/Resources/Default.png Default.png
+r0
+
+CCpResource build/Debug/iCMap.app/Contents/Resources/Ithaca_College_Campus_Map.png Ithaca_College_Campus_Map.png
+r0
+
+CCpResource build/Debug/iCMap.app/Contents/Resources/bullhorn.png bullhorn.png
+r0
+
+CCpResource build/Debug/iCMap.app/Contents/Resources/gear.png gear.png
+r0
+
+CCpResource build/Debug/iCMap.app/Contents/Resources/icon.png icon.png
+r0
+
+CCpResource build/Debug/iCMap.app/Contents/Resources/laptop.png laptop.png
+r0
+
+CCpResource build/Debug/iCMap.app/Contents/Resources/map-marker.png map-marker.png
+r0
+
+CCpResource build/Debug/iCMap.app/Contents/Resources/map.png map.png
+r0
+
+CProcessInfoPlistFile "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Debug/iCMap.app/Contents/Info.plist" iCMap-Info.plist
+r0
+
+CProcessInfoPlistFile "/Volumes/My Passport/iCMap/build/Debug/iCMap.app/Contents/Info.plist" iCMap-Info.plist
+r0
+
+CTouch "/Users/JuanD/Documents/School/Fall '10 & Spring '11/Spring '11/Senior Project/iCMap/build/Debug/iCMap.app"
+r0
+
+CTouch "/Volumes/My Passport/iCMap/build/Debug/iCMap.app"
+r0
+
